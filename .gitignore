@@ -13,3 +13,6 @@ yarn.lock
 !package-lock.json
 *pnpm-lock.yaml
 *pnpm-debug.log
+
+# Day 6 executables
+day06/**/day06
