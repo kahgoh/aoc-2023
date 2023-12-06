@@ -1,0 +1,15 @@
+# From Exercism's x86_64 track
+build/
+**/tests
+**/*.o
+*.pyc
+
+# From Exercism's WASM track
+*.swp
+.DS_Store
+node_modules
+yarn.lock
+**/package-lock.json
+!package-lock.json
+*pnpm-lock.yaml
+*pnpm-debug.log
