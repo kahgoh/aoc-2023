@@ -2,10 +2,10 @@
 
 | Day | Language                                 | Status |
 | :-- | :--------------------------------------- | :----- |
-| 1   | x86_64 assembly                          |        |
-| 2   | Bash script                              | ✔️      |
-| 3   | [Web assembly](https://webassembly.org/) | ✔️      |
-| 4   | [Vim script](https://www.vim.org/)       | ✔️      |
-| 5   |                                          |        |
-| 6   | Cobol                                    | ✔️      |
+| 1   | x86_64 Assembly                          |        |
+| 2   | Bash Script                              | ✔️      |
+| 3   | [WebAssembly](https://webassembly.org/)  | ✔️      |
+| 4   | [Vim Script](https://www.vim.org/)       | ✔️      |
+| 5   | [Dart](https://dart.dev/)                | ✔️      |
+| 6   | COBOL                                    | ✔️      |
 | 7   | [Elm](https://elm-lang.org/)             | ✔️      |
