@@ -2,7 +2,7 @@
 
 | Day | Language                                 | Status |
 | :-- | :--------------------------------------- | :----- |
-| 1   | x86_64 Assembly                          |        |
+| 1   | x86_64 Assembly                          | ✔️      |
 | 2   | Bash Script                              | ✔️      |
 | 3   | [WebAssembly](https://webassembly.org/)  | ✔️      |
 | 4   | [Vim Script](https://www.vim.org/)       | ✔️      |

@@ -1,6 +1,6 @@
 # From Exercism's x86_64 track
 build/
-day01*/**/tests
+day01v?/**/tests
 **/*.o
 *.pyc
 
