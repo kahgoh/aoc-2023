@@ -9,3 +9,9 @@
 | 5   | [Dart](https://dart.dev/)                | ✔️      |
 | 6   | COBOL                                    | ✔️      |
 | 7   | [Elm](https://elm-lang.org/)             | ✔️      |
+| 8   |                                          |       |
+| 9   |                                          |       |
+| 10  | Ada                                      |       |
+| 11  |                                          |       |
+| 12  |                                          |       |
+| 13  | [Elixir](https://elixir-lang.org/)       | ✔️      |
