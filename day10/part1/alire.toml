@@ -1,0 +1,9 @@
+name = "maze"
+description = "Shiny new project"
+version = "0.1.0-dev"
+
+authors = ["Kah Goh"]
+maintainers = ["Kah Goh <villastar@yahoo.com.au>"]
+maintainers-logins = ["kahgoh"]
+
+executables = ["maze"]

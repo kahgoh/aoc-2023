@@ -23,6 +23,12 @@ elm-stuff
 # Day 6 executables
 day06/**/day06
 
+# Day 10 ada
+/day10/obj/
+/day10/bin/
+/day10/alire/
+/day10/config/
+
 # Elixir in day 13. Suggestions from mix
 # The directory Mix will write compiled artifacts to.
 day13/_build/

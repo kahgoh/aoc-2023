@@ -11,7 +11,7 @@
 | 7   | [Elm](https://elm-lang.org/)             | ✔️      |
 | 8   |                                          |       |
 | 9   |                                          |       |
-| 10  | Ada                                      |       |
+| 10  | [Ada](https://ada-lang.io/)              | ✔️      |
 | 11  |                                          |       |
 | 12  |                                          |       |
 | 13  | [Elixir](https://elixir-lang.org/)       | ✔️      |
