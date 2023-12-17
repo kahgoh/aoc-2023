@@ -9,7 +9,7 @@
 | 5   | [Dart](https://dart.dev/)                | ✔️      |
 | 6   | COBOL                                    | ✔️      |
 | 7   | [Elm](https://elm-lang.org/)             | ✔️      |
-| 8   |                                          |       |
+| 8   | [Racket](https://racket-lang.org/)       | ✔️     |
 | 9   |                                          |       |
 | 10  | [Ada](https://ada-lang.io/)              | ✔️      |
 | 11  |                                          |       |
