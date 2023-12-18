@@ -15,3 +15,6 @@
 | 11  |                                          |       |
 | 12  |                                          |       |
 | 13  | [Elixir](https://elixir-lang.org/)       | ✔️      |
+| 14  |                                          |       |
+| 15  |                                          |       |
+| 16  | [Lua](https://www.lua.org/)              | ✔️     |
