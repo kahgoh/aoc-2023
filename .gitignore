@@ -56,3 +56,14 @@ day13/solve-*.tar
 
 # Temporary files, for example, from tests.
 day13/tmp/
+
+# Day 18 Vlang
+# Binaries for programs and plugins
+day18/*/main
+day18/*/day18
+day18/*/*.exe
+day18/*/*.exe~
+day18/*/*.so
+day18/*/*.dylib
+day18/*/*.dll
+day18/*/bin/

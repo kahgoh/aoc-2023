@@ -18,3 +18,5 @@
 | 14  | [R](https://www.r-project.org/)          | ✔️      |
 | 15  |                                          |       |
 | 16  | [Lua](https://www.lua.org/)              | ✔️     |
+| 17  |                                          |       |
+| 18  | [V](https://vlang.io/)                   | ✔️      |
