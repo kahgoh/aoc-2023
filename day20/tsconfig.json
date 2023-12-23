@@ -1,0 +1,25 @@
+{
+  "display": "Configuration for Exercism TypeScript Exercises",
+  "compilerOptions": {
+    // Allows you to use the newest syntax, and have access to console.log
+    // https://www.typescriptlang.org/tsconfig#lib
+    "lib": ["ESNEXT", "dom"],
+    "module": "commonjs",
+    "target": "es6",
+
+    "strict": true,
+    "esModuleInterop": true,
+    "skipLibCheck": true,
+    "forceConsistentCasingInFileNames": true,
+
+    // Because we'll be using babel: ensure that Babel can safely transpile
+    // files in the TypeScript project.
+    //
+    // https://babeljs.io/docs/en/babel-plugin-transform-typescript/#caveats
+    "isolatedModules": true,
+
+    "outDir": "build"
+  },
+  "include": ["src/*.ts", "src/*.tsx"],
+  "exclude": ["node_modules"]
+}

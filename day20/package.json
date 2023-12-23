@@ -1,0 +1,17 @@
+{
+  "dependencies": {
+    "@types/node": "^20.10.5",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.3.3"
+  },
+  "name": "aoc-day20",
+  "version": "1.0.0",
+  "description": "Day 20 Advent of code",
+  "main": "index.js",
+  "scripts": {
+    "build": "tsc",
+    "solve": "node build/part1.js"
+  },
+  "author": "Kah Goh",
+  "license": "ISC"
+}

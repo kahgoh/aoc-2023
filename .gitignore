@@ -20,6 +20,9 @@ yarn.lock
 # Elm
 elm-stuff
 
+# Erlang and BEAM vm
+*.beam
+
 # Day 6 executables
 day06/**/day06
 
